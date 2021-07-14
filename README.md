@@ -1,7 +1,5 @@
 ### Hi there! Welcome to my GitHub repository! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... improving myself, everyday!
 - 🌱 I’m currently learning ... AWS
 - 👯 I’m looking to collaborate on ... Data Analysis projects
